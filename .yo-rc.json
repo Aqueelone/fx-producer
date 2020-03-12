@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.luxiti.fxtestemv"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "microservice",
+    "baseName": "fxProducer",
+    "packageName": "com.luxiti.fxtestemv",
+    "packageFolder": "com/luxiti/fxtestemv",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": "kafka",
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmI4MGQzZWZjNDZhMWRhNmZiM2Y4ZWY5NzU4ZWNmODM3OWU4MWI1NGJjNmNiZjEzYjVkNDUwNThjOWQ0ZmZlMWY3OTU1Yjc2MGI3NDdiMjBlZGZhNzU4MTBmYzIzNTkyMzE0YjRjNjBkZmI3ZTJlYmE2ZDM4OWVhM2Q2ZGQ4MjE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1584020835379,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
